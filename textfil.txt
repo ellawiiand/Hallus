@@ -2,11 +2,8 @@
 hallu hallu där
 hallu hallu hallu där
 
-<<<<<<< HEAD
 BYEEEEEE!!!
 
 
 ...123
-=======
-BYEEEEEEEEE!!!
->>>>>>> e603b8b944e73a33e651ac68771409bb3d67b576
+
